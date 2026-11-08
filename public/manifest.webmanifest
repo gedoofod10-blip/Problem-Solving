@@ -1,0 +1,14 @@
+{
+  "name": "العقل الخوارزمي",
+  "short_name": "الخوارزمي",
+  "description": "درّب عقلك على التفكير الحاسوبي والخوارزميات عبر ألغاز منطقية ممتعة بدون كود.",
+  "start_url": "/",
+  "display": "standalone",
+  "dir": "rtl",
+  "lang": "ar",
+  "background_color": "#05070f",
+  "theme_color": "#05070f",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
